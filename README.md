@@ -1,7 +1,7 @@
 Hi 👋 My name is Sayali Kamble
 ==============================
 
-Enthusiastic and passionate fresher with a strong foundation in computer science and have hands-onexperience with Java, Spring Boot, REST APIs, Microservices, SQL, Jenkins, and AWS
+Enthusiastic and passionate developer with a strong foundation in computer science and have hands-on experience with Java, Spring Boot, REST APIs, Microservices, SQL, Jenkins, and AWS
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [sayalikamble4481@gmail.com](mailto:sayalikamble4481@gmail.com)
