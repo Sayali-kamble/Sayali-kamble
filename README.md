@@ -11,5 +11,4 @@ Enthusiastic and passionate developer with a strong foundation in computer scien
                     </p>
                     
               
-                    </picture>
-                    </a></p>
+                    
